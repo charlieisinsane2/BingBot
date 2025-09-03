@@ -1,1 +1,7 @@
-
+{
+  "botNamePrefix": "SumoBot",
+  "defaultHost": "127.0.0.1",
+  "defaultPort": 25565,
+  "arenaSpawn": { "x": 0, "y": 64, "z": 0 },
+  "edgeDistance": 2.2
+}
