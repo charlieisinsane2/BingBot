@@ -1,1 +1,17 @@
+{
+  "name": "sumo-bot",
+  "version": "1.0.0",
+  "description": "Highly Advanced Sumo Bot :>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.16.2",
+    "mineflayer-pathfinder": "^1.5.2",
+    "vec3": "^0.0.26",
+    "minecraft-data": "^2.0.0"
+  }
+}
 
